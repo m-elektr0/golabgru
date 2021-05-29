@@ -1,2 +1,2 @@
-# golabgru
-golabgrusoftware
+# r
+html i kopie
